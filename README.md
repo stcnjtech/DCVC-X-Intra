@@ -1,2 +1,2 @@
-# DCVCX
-DCVCX
+# DCVC-X-Intra
+DCVC-X-Intra
